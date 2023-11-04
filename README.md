@@ -5,7 +5,7 @@
 <img src="/project_images/main.jpg" style="width: 500px; height: 350px" />
 
 - 최범식의 포토폴리오 사이트입니다.
-- Resume/Lebenslaub 버튼을 클릭하면, 이력서를 볼 수 있다.
+- Resume/Lebenslaub 버튼을 클릭하면, 이력서를 볼 수 있다.(미사용)
 
 <br />
 
